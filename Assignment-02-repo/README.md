@@ -1,7 +1,5 @@
 Assignment 2
 Total marks: 100
-
-
 Name: Nathaniel Moreno
 
 Deliverables
