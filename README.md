@@ -1,6 +1,9 @@
 Assignment 2
 Total marks: 100
 
+
+Name: Nathaniel Moreno
+
 Deliverables
 A PDF report submitted to Canvas.
 
